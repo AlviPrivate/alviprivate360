@@ -1,0 +1,3 @@
+Abra o index.html para testar. Para publicar, envie index.html e a pasta assets ao GitHub Pages.
+
+As imagens devem permanecer dentro da pasta assets.
